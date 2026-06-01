@@ -1,7 +1,28 @@
+<div align="center">
+
+<img src="Screenshots/ipl-logo.png" width="250"/>
+
+# IPL Analytics Dashboard (2008–2020)
+
+### Power BI | MySQL | SQL | Sports Analytics
+
+</div>
+
+---
+
+## Dashboard Preview
+
+![IPL Dashboard](Screenshots/dashboard-overview.png)
+
+---
+
+
+
+
+
 # IPL Analytics Dashboard (2008–2020)
 # Overview
 This project analyzes Indian Premier League (IPL) matches from 2008 to 2020 using MySQL and Power BI. The objective is to uncover insights related to team performance, player achievements, venue statistics, toss decisions, and season-wise trends through data analysis and interactive visualizations.
-
 # Project Objectives
 Analyze team and player performance across IPL seasons.
 Understand the impact of toss decisions on match outcomes.
