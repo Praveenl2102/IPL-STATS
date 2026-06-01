@@ -12,25 +12,24 @@ Apply SQL and Power BI skills to solve real-world analytical problems.
 
 The dataset contains IPL match information from 2008–2020, including:
 
-Match ID
-Date
-Season
-Teams
-Toss Winner
-Toss Decision
-Match Winner
-Winning Margin
-Venue
-City
-Player of the Match
+Match ID,
+Date,
+Season,
+Teams,
+Toss Winner,
+Toss Decision,
+Match Winner,
+Winning Margin,
+Venue,
+City,
+Player of the Match,
 Umpires
-Match Type
 # Tools & Technologies
-MySQL
-Power BI
-DAX
-Power Query
-Excel
+MySQL,
+Power BI,
+DAX,
+Power Query,
+Excel,
 GitHub
 # SQL Analysis Performed
 Team Performance Analysis
