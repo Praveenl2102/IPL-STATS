@@ -76,9 +76,9 @@ Determined the most frequently used venues and host cities.
 Evaluated player performance through Player of the Match awards.
 Explored season-wise growth and tournament trends.
 # Author
-#Madineni Praveen Kumar
-#Aspiring Data Analyst | Power BI Developer | SQL Enthusiast
+Madineni Praveen Kumar
+Aspiring Data Analyst | Power BI Developer | SQL Enthusiast
 
 Connect
-#GitHub:https://github.com/Praveenl2102
-#LinkedIn: https://www.linkedin.com/in/madineni-praveen-kumar-350047286/
+GitHub:https://github.com/Praveenl2102
+LinkedIn: https://www.linkedin.com/in/madineni-praveen-kumar-350047286/
