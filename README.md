@@ -1,24 +1,3 @@
-<div align="center">
-
-<img src="Screenshots/ipl-logo.png" width="250"/>
-
-# IPL Analytics Dashboard (2008–2020)
-
-### Power BI | MySQL | SQL | Sports Analytics
-
-</div>
-
----
-
-## Dashboard Preview
-
-![IPL Dashboard](Screenshots/dashboard-overview.png)
-
----
-
-
-
-
 
 # IPL Analytics Dashboard (2008–2020)
 # Overview
